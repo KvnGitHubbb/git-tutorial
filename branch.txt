@@ -5,4 +5,8 @@ HAHA ANOTHER BRANCHes
 
 update 1
 
+<<<<<<< Updated upstream
 Second Stash
+=======
+First Stash
+>>>>>>> Stashed changes
