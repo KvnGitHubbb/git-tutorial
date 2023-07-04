@@ -2,5 +2,5 @@ a tak tak
 
 b
 
-c main
+c 
 
