@@ -1,6 +1,6 @@
-a some modifications in tak, more in tak
+a 
 
 b
 
-c some modifications in main
+c 
 
